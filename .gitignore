@@ -2,3 +2,5 @@
 demo/
 .hugo/*
 !.hugo/version
+.Rproj.user
+hugo-coder-theme.Rproj
